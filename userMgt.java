@@ -3,3 +3,4 @@ Krys
 Augusta
 Ada
 Collins
+Manager
